@@ -6,7 +6,7 @@ This is simple todo app in this app user can add or remove the item
 
 ![todoApp2](https://github.com/Aryanpatel1066/todoApp/assets/112760422/20dd64f6-5d72-4813-a83d-d734db263620)
 
-#TechStack
+# TechStack
 1. HTML5
 2. CSS3
 3. JAVASCRIPT ES6
